@@ -23,6 +23,7 @@ Resources:
           Properties:
             Path: /hello/post
             Method: post
+            chicken noodles
 
 
 Outputs:
